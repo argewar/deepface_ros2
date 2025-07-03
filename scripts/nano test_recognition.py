@@ -1,7 +1,7 @@
 from deepface import DeepFace
 
 # Caminho da imagem de teste
-img_path = "~/deepface_ros2_ws/deepface_ros2/scripts/img_test1.jpg"  # Substitua por uma imagem nova da webcam ou outra
+img_path = "/home/rbe-01/workspace/deepface_ros2/scripts/img_test3.jpg"  # Substitua por uma imagem nova da webcam ou outra
 
 # Caminho para o dataset organizado
 db_path = "../datasets/"
